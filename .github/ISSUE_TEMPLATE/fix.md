@@ -1,8 +1,8 @@
 ---
 name: 버그 리포트
 about: 예상과 다르게 동작하는 문제를 알려주세요.
-title: "[Bug] "
-labels: bug
+title: "[fix] "
+labels: fix
 assignees: ''
 ---
 
